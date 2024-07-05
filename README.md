@@ -40,7 +40,7 @@ The `requirements.txt` file contains all the required packages, including:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/mall-customer-segmentation.git
+    git clone https://github.com/mohMujeeb/mall-customer-segmentation.git
     ```
 
 2. Navigate to the project directory:
